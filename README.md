@@ -34,3 +34,7 @@ Options: Display from 2005 to 2020
 * Choose report type as `Yearly Airline Performance Report` and year as 2015
 * Choose report type as `Yearly Airline Delay Report` and year as 2019
 * Choose report type as `Yearly Airline Delay Report` and year as 2008
+
+---
+
+Jupyter Notebook is provided for demo of interactive dashboard, as due to compatibility issue between dash library and jupyter notebook, visual studio code has been used for original dashboard. If you are not able to see interactive plots in jupyter notebook, [check out](https://jovian.ai/omprakashp014909/dashboard-for-airline-reporting-carrier-on-time-performance-dataset)
